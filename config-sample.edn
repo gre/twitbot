@@ -1,0 +1,12 @@
+{
+  :follow-on-tweet false
+  :mock-twitter-action true
+  :messages-gdocs "xxx" ; optional. if not provided, load locally
+  :refresh-rate 60
+  :twitter-screen-name "xxx"
+  :twitter-key "xxx",
+  :twitter-secret "xxx",
+  :twitter-accesstoken "xxx",
+  :twitter-accesstoken-secret "xxx",
+  :detectlang-key "xxx"
+}

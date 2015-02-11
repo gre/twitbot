@@ -1,0 +1,25 @@
+# Project specific
+
+config.edn
+messages.edn
+
+# Lein&Closure
+
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+
+# IDE and editors
+
+.idea/
+
+# Various stuff
+
+.hgignore
+.hg/

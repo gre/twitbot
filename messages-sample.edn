@@ -1,0 +1,22 @@
+{
+ :topicname
+ {
+  :keywords ["triggeringword1"]
+  :exclude ["wordtoexclude1" "wordtoexclude2"]
+  :messages
+  {
+   :en ["the content of the tweet. 1"
+        "the content of the tweet. 2"]
+   :fr ["le contenu du tweet"]
+  }
+ }
+ :secondtopic
+ {
+  :keywords ["a"]
+  :exclude []
+  :messages
+  {
+   :en ["content"]
+  }
+ }
+}
